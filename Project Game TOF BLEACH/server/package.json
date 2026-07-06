@@ -1,0 +1,17 @@
+{
+  "name": "project-game-tof-bleach",
+  "version": "1.0.0",
+  "description": "real time player true or false (demo)",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "node-fetch": "^2.7.0",
+    "socket.io": "^4.8.3"
+  }
+}
